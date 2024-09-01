@@ -26,4 +26,5 @@ The architecture for AdaptFL consists of:
 4. **Model Distribution**: The global model is distributed back to the devices for improved performance and accuracy.
 
 ## Contributing
-Since the project is in its early stages, contributions are welcome in the form of design discussions, architecture suggestions, and future implementation plans. > Please open an issue or start a discussion if you have ideas to share.
+Since the project is in its early stages, contributions are welcome in the form of design discussions, architecture suggestions, and future implementation plans. 
+Please open an issue or start a discussion if you have ideas to share.
