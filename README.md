@@ -20,12 +20,10 @@ The planned features for AdaptFL include:
 
 The architecture for AdaptFL consists of:
 
-```python
 1. **Local Multi-Input Models**: Each device will have a local model that processes diverse data types.
 2. **Differential Privacy Mechanisms**: Techniques to ensure that individual data points cannot be reconstructed from the aggregated data.
 3. **Global Model Aggregation**: A centralized system that averages the weights from local models without accessing raw data.
 4. **Model Distribution**: The global model is distributed back to the devices for improved performance and accuracy.
-```
 
 ## Contributing
-Since the project is in its early stages, contributions are welcome in the form of design discussions, architecture suggestions, and future implementation plans. *Please open an issue or start a discussion if you have ideas to share.*
+Since the project is in its early stages, contributions are welcome in the form of design discussions, architecture suggestions, and future implementation plans. > Please open an issue or start a discussion if you have ideas to share.
